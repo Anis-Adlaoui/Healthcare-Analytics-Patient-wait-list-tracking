@@ -1,4 +1,4 @@
-# 🏥 Healthcare Patient Waiting List — Power BI Dashboard
+# 🏥 Healthcare Patient Waiting List Analytics
 
 ## 📌 Project Overview
 End-to-end Power BI dashboard analyzing patient waiting lists 
